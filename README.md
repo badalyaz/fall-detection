@@ -42,7 +42,7 @@ python3 fall_detection.py --video video_name -m method_name --save/--no--save
 ```
 @article{
   title={Privacy Preserving Automatic Fall Detection for Elderly Using RGBD Cameras},
-  author={Zhang, C., Tian, Y., Capezuti, E.},
+  authors={Zhang, C., Tian, Y., Capezuti, E.},
   year={2012},
   doi={https://doi.org/10.1007/978-3-642-31522-0_95},
 }
