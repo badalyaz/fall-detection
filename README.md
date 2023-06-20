@@ -1,6 +1,6 @@
+# Fall Detection
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-# Fall Detection
 ![Demonstration](https://user-images.githubusercontent.com/65034169/190631807-5f454de9-8e22-4ba1-9b74-f96fcb44ed78.gif)
 
 Automated Fall Detection is an essential tool for assisting the elderly in their daily lives. By capturing fall activity, it enables timely notifications to relevant individuals or caregivers. This GitHub repository contains the necessary code and resources for implementing an automated fall detection system.
